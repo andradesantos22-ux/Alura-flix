@@ -12,8 +12,8 @@
 
 <section>
          <div class="CHAMADA-texto">
-             <h1>ATRAVÉS DO ARANAVERSO SUPERA O PRIMEIRO FILME?</h1>
-             <p>#homem-aranha</p>
+             <h1>Academia Unicórnio S02E01</h1>
+             <p>#academiaunicornio</p>
           </div>
 
           <div>
@@ -23,34 +23,6 @@
               referrepolicy="strict-origin-cross-origin" allowfullscreen></iframe>
   </div>
   </section>
-
-</body>
-
-</html>
-<!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AluraFlix</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body> <!--Inicio, corpo do documento-->
-<header>ALURAFLIX</header>
-<section class="chamada">
-<div class="chamada-texto">
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
-</div>
-
-<div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-UcNpsW9Bzo?si=uKAR0Eb7Nufl85op"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</section>
 
 <!--Carrossel de imagens-->
 <section class="recomendacoes">
